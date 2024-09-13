@@ -1,5 +1,6 @@
 import plotly.graph_objects as go
 import gettext
+import pandas as pd
 
 # Set up localization
 it = gettext.translation('messages', localedir='locales', languages=['it'])
@@ -42,6 +43,33 @@ def plot_exam_trends(df):
             side='right'
         ),
         barmode='group'
+    )
+
+    return fig
+
+def plot_prediction(df, exam_type, prediction_date, predicted_value):
+    fig = go.Figure()
+
+    # Plot historical data
+    fig.add_trace(go.Scatter(x=df['exam_date'], y=df['result'], mode='lines+markers', name=_("Dati storici")))
+
+    # Plot predicted value
+    fig.add_trace(go.Scatter(x=[prediction_date], y=[predicted_value], mode='markers', name=_("Valore previsto"),
+                             marker=dict(size=10, color='red', symbol='star')))
+
+    # Add reference range if available
+    if 'reference_range' in df.columns and df['reference_range'].notna().any():
+        ref_range = df['reference_range'].iloc[0]
+        if '-' in ref_range:
+            lower, upper = map(float, ref_range.split('-'))
+            fig.add_hline(y=lower, line_dash="dash", line_color="green", annotation_text=_("Limite inferiore"))
+            fig.add_hline(y=upper, line_dash="dash", line_color="green", annotation_text=_("Limite superiore"))
+
+    fig.update_layout(
+        title=_("Previsione per l'esame: {}").format(exam_type),
+        xaxis_title=_("Data"),
+        yaxis_title=f"{exam_type} ({df['unit'].iloc[0]})",
+        hovermode="x unified"
     )
 
     return fig

@@ -3,10 +3,11 @@ import gettext
 import os
 from auth import login, create_user
 from database import init_db, load_json_files
-from data_processing import get_patient_data, get_exam_types
-from visualization import plot_exam_results
+from data_processing import get_patient_data, get_exam_types, predict_future_value, get_patient_names
+from visualization import plot_exam_results, plot_prediction
 from ai_interpretation import get_ai_interpretation
 from dashboard import show_dashboard
+import datetime
 
 # Set up localization
 locales_dir = os.path.abspath("locales")
@@ -66,7 +67,9 @@ def main():
 
             if st.button(_("Visualizza risultati")):
                 results = get_patient_data(patient_name, selected_exam, start_date, end_date)
-                if results:
+                if results.empty:
+                    st.info(_("Nessun risultato trovato per i criteri selezionati."))
+                else:
                     st.subheader(_("Risultati degli esami"))
                     fig = plot_exam_results(results, selected_exam)
                     st.plotly_chart(fig)
@@ -75,8 +78,22 @@ def main():
                         interpretation = get_ai_interpretation(results, selected_exam)
                         st.subheader(_("Interpretazione AI"))
                         st.write(interpretation)
+
+            # Predictive Analytics Section
+            st.subheader(_("Analisi Predittiva"))
+            prediction_date = st.date_input(_("Seleziona la data per la previsione"), min_value=datetime.date.today())
+            if st.button(_("Genera Previsione")):
+                predicted_value, accuracy = predict_future_value(patient_name, selected_exam, prediction_date)
+                if predicted_value is not None:
+                    st.write(_("Valore previsto per {}: {:.2f}").format(prediction_date, predicted_value))
+                    st.write(_("Accuratezza del modello: {:.2f}%").format(accuracy * 100))
+                    
+                    # Plot the prediction
+                    results = get_patient_data(patient_name, selected_exam, start_date, end_date)
+                    fig = plot_prediction(results, selected_exam, prediction_date, predicted_value)
+                    st.plotly_chart(fig)
                 else:
-                    st.info(_("Nessun risultato trovato per i criteri selezionati."))
+                    st.warning(_("Impossibile generare una previsione. Assicurati di avere abbastanza dati storici."))
 
 if __name__ == "__main__":
     main()
