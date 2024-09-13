@@ -30,3 +30,6 @@ def show_dashboard():
     # Display raw data
     st.subheader(_("Dati grezzi"))
     st.dataframe(df_aggregated)
+
+# Explicit export
+__all__ = ['show_dashboard']

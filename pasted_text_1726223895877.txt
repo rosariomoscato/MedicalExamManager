@@ -1,0 +1,44 @@
+Finished processing file: 65-2520081-REFEF.json
+Processing file: 68-2516274-REFEF.json
+Successfully loaded JSON data from file: 68-2516274-REFEF.json
+Successfully inserted examination: LEUCOCITI for patient Giuseppe Verdi on 2024-03-17
+Successfully inserted examination: ERITROCITI for patient Giuseppe Verdi on 2024-03-17
+Successfully inserted examination: EMOGLOBINA for patient Giuseppe Verdi on 2024-03-17
+Successfully inserted examination: EMATOCRITO for patient Giuseppe Verdi on 2024-03-17
+Successfully inserted examination: MCV for patient Giuseppe Verdi on 2024-03-17
+Successfully inserted examination: MCH for patient Giuseppe Verdi on 2024-03-17
+Successfully inserted examination: MCHC for patient Giuseppe Verdi on 2024-03-17
+Successfully inserted examination: RDW-CV for patient Giuseppe Verdi on 2024-03-17
+Successfully inserted examination: PIASTRINE for patient Giuseppe Verdi on 2024-03-17
+Successfully inserted examination: MPV for patient Giuseppe Verdi on 2024-03-17
+Successfully inserted examination: PWD for patient Giuseppe Verdi on 2024-03-17
+Warning: Empty or None result for exam FORMULA LEUCOCITARIA of patient Giuseppe Verdi on 2024-03-17. Skipping this exam.
+Successfully inserted examination: GLUCOSIO for patient Giuseppe Verdi on 2024-03-17
+Successfully inserted examination: Stima GFR (secondo CKD-EPI) for patient Giuseppe Verdi on 2024-03-17
+Successfully inserted examination: TRIGLICERIDI for patient Giuseppe Verdi on 2024-03-17
+Successfully inserted examination: COLESTEROLO TOTALE for patient Giuseppe Verdi on 2024-03-17
+Successfully inserted examination: COLESTEROLO LDL for patient Giuseppe Verdi on 2024-03-17
+Successfully inserted examination: TRANSAMINASI AST/GOT for patient Giuseppe Verdi on 2024-03-17
+Successfully inserted examination: TRANSAMINASI ALT/GPT for patient Giuseppe Verdi on 2024-03-17
+Successfully inserted examination: GAMMA GT for patient Giuseppe Verdi on 2024-03-17
+Finished processing file: 68-2516274-REFEF.json
+Finished loading all JSON files
+Total number of records in the examinations table: 382
+Sample of 5 records from the examinations table:
+(29797, 'Mario Rossi', datetime.date(2024, 3, 13), 'LEUCOCITI', 5.82, 'k/μl', '4,00 - 10,80')
+(29798, 'Mario Rossi', datetime.date(2024, 3, 13), 'ERITROCITI', 4.91, 'M/μl', '4,10 - 5,80')
+(29799, 'Mario Rossi', datetime.date(2024, 3, 13), 'EMOGLOBINA', 14.0, 'gr/dL', '13,5 - 18,0')
+(29800, 'Mario Rossi', datetime.date(2024, 3, 13), 'EMATOCRITO', 42.2, '%', '40,0 - 53,0')
+(29801, 'Mario Rossi', datetime.date(2024, 3, 13), 'MCV', 86.0, 'fl', '82,0 - 99,0')
+
+Checking date formats:
+Sample date from database: 2024-03-13
+Date type: <class 'datetime.date'>
+Sample date from database: 2024-03-13
+Date type: <class 'datetime.date'>
+Sample date from database: 2024-03-13
+Date type: <class 'datetime.date'>
+Sample date from database: 2024-03-13
+Date type: <class 'datetime.date'>
+Sample date from database: 2024-03-13
+Date type: <class 'datetime.date'>
