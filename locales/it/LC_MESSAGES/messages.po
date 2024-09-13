@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgid "Sistema di Gestione Esami Medici"
+msgstr "Sistema di Gestione Esami Medici"
+
+msgid "Autenticazione"
+msgstr "Autenticazione"
+
+msgid "Accedi"
+msgstr "Accedi"
+
+msgid "Registrati"
+msgstr "Registrati"
+
+msgid "Nome utente"
+msgstr "Nome utente"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Ruolo"
+msgstr "Ruolo"
