@@ -1,0 +1,487 @@
+{
+  "paziente": "Giuseppe Verdi",
+  "data": "25-03-2024",
+  "esami": [
+    {
+      "tipo_di_esame": "ESAME EMOCROMOCITOMETRICO",
+      "metodo": "CITOMETRIA A FLUSSO",
+      "sotto_esami": [
+        {
+          "nome": "LEUCOCITI",
+          "risultato": 6.92,
+          "unita_di_misura": "k/μl",
+          "valori_di_riferimento": "4,00 - 10,80"
+        },
+        {
+          "nome": "ERITROCITI",
+          "risultato": 4.41,
+          "unita_di_misura": "M/μl",
+          "valori_di_riferimento": "4,10 - 5,80"
+        },
+        {
+          "nome": "EMOGLOBINA",
+          "risultato": 13.1,
+          "unita_di_misura": "gr/dL",
+          "valori_di_riferimento": "13,5 - 18,0"
+        },
+        {
+          "nome": "EMATOCRITO",
+          "risultato": 40.0,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "40,0 - 53,0"
+        },
+        {
+          "nome": "MCV",
+          "risultato": 90.8,
+          "unita_di_misura": "fl",
+          "valori_di_riferimento": "82,0 - 99,0"
+        },
+        {
+          "nome": "MCH",
+          "risultato": 29.7,
+          "unita_di_misura": "pg",
+          "valori_di_riferimento": "27,0 - 36,0"
+        },
+        {
+          "nome": "MCHC",
+          "risultato": 32.7,
+          "unita_di_misura": "gr/dL",
+          "valori_di_riferimento": "30,0 - 36,0"
+        },
+        {
+          "nome": "RDW-CV",
+          "risultato": 14.5,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "11,0 - 16,0"
+        },
+        {
+          "nome": "PIASTRINE",
+          "risultato": 155,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "150 - 400"
+        },
+        {
+          "nome": "MPV",
+          "risultato": 12.0,
+          "unita_di_misura": "fl",
+          "valori_di_riferimento": "6,5 - 12,0"
+        },
+        {
+          "nome": "PWD",
+          "risultato": 16.5,
+          "unita_di_misura": "fl",
+          "valori_di_riferimento": "15,0 - 17,0"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "FORMULA LEUCOCITARIA",
+      "sotto_esami": [
+        {
+          "nome": "Neutrofili %",
+          "risultato": 55.0,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "40,0 - 75,0"
+        },
+        {
+          "nome": "Linfociti %",
+          "risultato": 32.1,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "20,0 - 45,0"
+        },
+        {
+          "nome": "Monociti %",
+          "risultato": 10.2,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "3,4 - 12,0"
+        },
+        {
+          "nome": "Eosinofili %",
+          "risultato": 2.3,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "0,0 - 8,0"
+        },
+        {
+          "nome": "Basofili %",
+          "risultato": 0.4,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "0,0 - 2,5"
+        },
+        {
+          "nome": "Neutrofili #",
+          "risultato": 3.81,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "1,60 - 8,10"
+        },
+        {
+          "nome": "Linfociti #",
+          "risultato": 2.22,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "0,80 - 3,80"
+        },
+        {
+          "nome": "Monociti #",
+          "risultato": 0.71,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "0,10 - 1,30"
+        },
+        {
+          "nome": "Eosinofili #",
+          "risultato": 0.16,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "0,00 - 0,80"
+        },
+        {
+          "nome": "Basofili #",
+          "risultato": 0.02,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "0,00 - 0,30"
+        },
+        {
+          "nome": "NRBC %",
+          "risultato": 0.00,
+          "unita_di_misura": "%/WBC",
+          "valori_di_riferimento": "0,00 - 0,00"
+        },
+        {
+          "nome": "NRBC #",
+          "risultato": 0.00,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "0,00 - 0,00"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "TEMPO DI TROMBOPLASTINA PARZIALE - aPTT",
+      "metodo": "COAGULATIVO",
+      "sotto_esami": [
+        {
+          "nome": "aPTT",
+          "risultato": 1.06,
+          "unita_di_misura": "Ratio",
+          "valori_di_riferimento": "0.80 - 1.20"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "FIBRINOGENO",
+      "metodo": "COAGULATIVO",
+      "sotto_esami": [
+        {
+          "nome": "Fibrinogeno",
+          "risultato": 456,
+          "unita_di_misura": "mg/dl",
+          "valori_di_riferimento": "200 - 450"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "VES",
+      "metodo": "Fotometria",
+      "sotto_esami": [
+        {
+          "nome": "VES",
+          "risultato": 29,
+          "unita_di_misura": "mm/h",
+          "valori_di_riferimento": "1 - 20"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "PROTEINA C REATTIVA",
+      "metodo": "IMMUNOTURBIDIMETRICO",
+      "sotto_esami": [
+        {
+          "nome": "Proteina C Reattiva",
+          "risultato": "< 2",
+          "unita_di_misura": "mg/L",
+          "valori_di_riferimento": "< 5.0 mg/L"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "AMMONIO PLASMATICO",
+      "metodo": "Enzimatico",
+      "sotto_esami": [
+        {
+          "nome": "Ammonio Plasmatico",
+          "risultato": 70,
+          "unita_di_misura": "μg/dL",
+          "valori_di_riferimento": "27 - 90"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "PROTEINE/s",
+      "metodo": "BIURETO",
+      "sotto_esami": [
+        {
+          "nome": "Proteine",
+          "risultato": 7.3,
+          "unita_di_misura": "gr/dl",
+          "valori_di_riferimento": "6.0 - 8.0"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "SODIO/s",
+      "metodo": "POTENZIOMETRICO",
+      "sotto_esami": [
+        {
+          "nome": "Sodio",
+          "risultato": 142,
+          "unita_di_misura": "mmol/l",
+          "valori_di_riferimento": "135 - 146"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "POTASSIO/s",
+      "metodo": "POTENZIOMETRICO",
+      "sotto_esami": [
+        {
+          "nome": "Potassio",
+          "risultato": 5.1,
+          "unita_di_misura": "mmol/l",
+          "valori_di_riferimento": "3.5 - 5.3"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "FOSFORO/s",
+      "metodo": "FOSFOMOLIBDATO (FORMAZIONE)",
+      "sotto_esami": [
+        {
+          "nome": "Fosforo",
+          "risultato": 3.4,
+          "unita_di_misura": "mg/dl",
+          "valori_di_riferimento": "2.4 - 4.8"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "CALCIO/s",
+      "metodo": "ARSENAZO III",
+      "sotto_esami": [
+        {
+          "nome": "Calcio",
+          "risultato": 9.8,
+          "unita_di_misura": "mg/dl",
+          "valori_di_riferimento": "8.5 - 10.5"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "GLUCOSIO",
+      "metodo": "ESOCHINASI",
+      "sotto_esami": [
+        {
+          "nome": "Glucosio",
+          "risultato": 93,
+          "unita_di_misura": "mg/dl",
+          "valori_di_riferimento": "60 - 99 mg/dl (IFG (Alterata Glicemia a Diguno) da monitorare: 100 - 125 mg/dl. Livello decisionale per diabete: > 125 mg/dl in almeno due diverse occasioni. In gravidanza: < 92 mg/dl)"
+        }
+      ]
+    },
+        {
+      "tipo_di_esame": "UREA/s",
+      "metodo": "UREASI GLDH",
+      "risultato": 79,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "10 - 50"
+    },
+    {
+      "tipo_di_esame": "CREATININA - eGFR",
+      "metodo": "ENZIMATICO",
+      "sotto_esami": [
+        {
+          "nome": "Creatinina",
+          "risultato": 1.69,
+          "unita_di_misura": "mg/dl",
+          "valori_di_riferimento": "0,65 - 1,30"
+        },
+        {
+          "nome": "Stima GFR (secondo CKD-EPI)",
+          "risultato": 39,
+          "unita_di_misura": "ml/min",
+          "valori_di_riferimento": "> 90 ml/min/1.73 mq\n60 - 89: stima del GFR non significativa\nin assenza di alterazioni correlate\n30 - 59: moderata riduzione\n15 - 29: marcata riduzione\n< 15: insufficienza renale"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "ACIDO URICO/s",
+      "metodo": "URICASI POD",
+      "risultato": 6.5,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "3,4 - 7,0"
+    },
+    {
+      "tipo_di_esame": "Ferro",
+      "metodo": "FERENE-S",
+      "risultato": 62,
+      "unita_di_misura": "μg/dL",
+      "valori_di_riferimento": "60 - 160"
+    },
+    {
+      "tipo_di_esame": "Transferrina",
+      "metodo": "IMMUNOTURBIDIMETRICO",
+      "risultato": 254,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "200 - 400"
+    },
+    {
+      "tipo_di_esame": "Ferritina",
+      "metodo": "CHEMILUMINESCENZA",
+      "risultato": 29.4,
+      "unita_di_misura": "μgr/L",
+      "valori_di_riferimento": "30,0 - 400,0"
+    },
+    {
+      "tipo_di_esame": "Trigliceridi",
+      "metodo": "GPO POD-PAP",
+      "risultato": 106,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili per soggetti a rischio basso/moderato: < 150 mg/dl."
+    },
+    {
+      "tipo_di_esame": "Colesterolo Totale",
+      "metodo": "CHOD POD",
+      "risultato": 122,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili per soggetti a rischio basso/moderato: < 190 mg/dl."
+    },
+    {
+      "tipo_di_esame": "Colesterolo HDL",
+      "metodo": "COLORIMETRICO PER BLOCCAGGIO IMMUNOLOGICO",
+      "risultato": 43,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili:\nUomo: > 40 mg/dl\nDonna: > 45 mg/dl"
+    },
+    {
+      "tipo_di_esame": "Colesterolo LDL",
+      "risultato": 66,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili per soggetti a rischio basso/moderato: < 100 mg/dl."
+    },
+      {
+    "Tipo di esame": "Metodo Dosaggio diretto CE e CHOD POD",
+    "Risultato": "rischio basso/moderato: < 115 mg/dl.",
+    "U.M.": "",
+    "Valori di Riferimento": ""
+  },
+  {
+    "Tipo di esame": "TRANSAMINASI AST/GOT",
+    "Risultato": "35",
+    "U.M.": "U/I",
+    "Valori di Riferimento": "0 - 35"
+  },
+  {
+    "Tipo di esame": "TRANSAMINASI ALT/GPT",
+    "Risultato": "41",
+    "U.M.": "U/I",
+    "Valori di Riferimento": "0 - 45"
+  },
+  {
+    "Tipo di esame": "CPK",
+    "Risultato": "148",
+    "U.M.": "U/L",
+    "Valori di Riferimento": "0 - 190"
+  },
+  {
+    "Tipo di esame": "GAMMA GT",
+    "Risultato": "39",
+    "U.M.": "U/I",
+    "Valori di Riferimento": "0 - 49"
+  },
+  {
+    "Tipo di esame": "OMOCISTEINA",
+    "Risultato": "16.6",
+    "U.M.": "μmol/L",
+    "Valori di Riferimento": "0,0 - 18,0"
+  },
+  {
+    "Tipo di esame": "VITAMINA D (25 OH) TOTALE",
+    "Risultato": "38.2",
+    "U.M.": "μg/L",
+    "Valori di Riferimento": "Deficienza: < 20, Insufficienza: 20 - 29, Sufficienza: 30 - 100"
+  },
+  {
+    "Tipo di esame": "VITAMINA B12",
+    "Risultato": "520.0",
+    "U.M.": "ng/L",
+    "Valori di Riferimento": "180.0 - 900.0"
+  },
+  {
+    "Tipo di esame": "FOLATI",
+    "Risultato": "15.04",
+    "U.M.": "μg/L",
+    "Valori di Riferimento": "> 3.0"
+  },
+  {
+    "Tipo di esame": "TSH Ormone Tireostimolante - Reflex test",
+    "Risultato": "3.472",
+    "U.M.": "μUI/mL",
+    "Valori di Riferimento": "0.350 - 5.100"
+  },
+  {
+    "Tipo di esame": "CA 19-9",
+    "Risultato": "1.6",
+    "U.M.": "KUI/L",
+    "Valori di Riferimento": "0.0 - 26.0"
+  },
+  {
+    "Tipo di esame": "CEA",
+    "Risultato": "7.3",
+    "U.M.": "ng/ml",
+    "Valori di Riferimento": "< 5.0"
+  },
+  {
+    "Tipo di esame": "PSA TEST Reflex",
+    "Risultato": "3.14",
+    "U.M.": "μg/L",
+    "Valori di Riferimento": "Fumatori: < 8.0, 0.00 - 6.50 in soggetto di età superiore a 70 anni."
+  },
+  {
+    "Tipo di esame": "PSA LIBERO",
+    "Risultato": "1.25",
+    "U.M.": "μg/L",
+    "Valori di Riferimento": ""
+  },
+  {
+    "Tipo di esame": "RAPPORTO PSA LIBERO/ PSA TOTALE",
+    "Risultato": "39.87",
+    "U.M.": "%",
+    "Valori di Riferimento": "> 19%"
+  },
+  {
+    "Tipo di esame": "PARATORMONE (wPTH)",
+    "Risultato": "71.9",
+    "U.M.": "ng/L",
+    "Valori di Riferimento": "12.0 - 88.0"
+  },
+  {
+    "Tipo di esame": "MICROALBUMINURIA Campione estemporaneo",
+    "Risultato": "5.3",
+    "U.M.": "mg/gr crea",
+    "Valori di Riferimento": "Normoalbuminuria: < 30, Microalbuminuria: 30 - 300, Macroalbuminuria: > 300"
+  },
+  {
+    "Tipo di esame": "Creatininuria",
+    "Risultato": "158.83",
+    "U.M.": "mg/dl",
+    "Valori di Riferimento": "30.00 - 300.00"
+  },
+  {
+    "Tipo di esame": "LEVETIRACETAM (KEPPRA)",
+    "Risultato": "25.7",
+    "U.M.": "mg/L",
+    "Valori di Riferimento": "Soggetti in terapia: 20.0 - 40.0"
+  },
+  {
+    "Tipo di esame": "ACIDO VALPROICO",
+    "Risultato": "64.6",
+    "U.M.": "μg/ml",
+    "Valori di Riferimento": "Int. Terapeutico: 50 - 100, Limite minimo di rilevabilità: 3.00 μg/ml, Nota: il medico potrebbe determinare l'intervallo terapeutico più adatto per ciascun paziente."
+  }
+  ]
+}

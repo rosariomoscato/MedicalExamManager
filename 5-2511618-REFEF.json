@@ -1,0 +1,170 @@
+{
+  "paziente": "Mario Rossi",
+  "data": "03-03-2024",
+  "esami": [
+    {
+      "tipo_di_esame": "ESAME EMOCROMOCITOMETRICO",
+      "metodo": "CITOMETRIA A FLUSSO",
+      "sotto_esami": [
+        {
+          "nome": "LEUCOCITI",
+          "risultato": 2.14,
+          "unita_di_misura": "k/μl",
+          "valori_di_riferimento": "4,00 - 10,80"
+        },
+        {
+          "nome": "ERITROCITI",
+          "risultato": 3.00,
+          "unita_di_misura": "M/μl",
+          "valori_di_riferimento": "4,10 - 5,80"
+        },
+        {
+          "nome": "EMOGLOBINA",
+          "risultato": 8.8,
+          "unita_di_misura": "gr/dL",
+          "valori_di_riferimento": "13,5 - 18,0"
+        },
+        {
+          "nome": "EMATOCRITO",
+          "risultato": 28.0,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "40,0 - 53,0"
+        },
+        {
+          "nome": "MCV",
+          "risultato": 93.1,
+          "unita_di_misura": "fl",
+          "valori_di_riferimento": "82,0 - 99,0"
+        },
+        {
+          "nome": "MCH",
+          "risultato": 29.2,
+          "unita_di_misura": "pg",
+          "valori_di_riferimento": "27,0 - 36,0"
+        },
+        {
+          "nome": "MCHC",
+          "risultato": 31.3,
+          "unita_di_misura": "gr/dL",
+          "valori_di_riferimento": "30,0 - 36,0"
+        },
+        {
+          "nome": "RDW-CV",
+          "risultato": 17.3,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "11,0 - 16,0"
+        },
+        {
+          "nome": "PIASTRINE",
+          "risultato": 38,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "150 - 400"
+        },
+        {
+          "nome": "MPV",
+          "risultato": 10.1,
+          "unita_di_misura": "fL",
+          "valori_di_riferimento": "6,5 - 12,0"
+        },
+        {
+          "nome": "PWD",
+          "risultato": 16.9,
+          "unita_di_misura": "fL",
+          "valori_di_riferimento": "15,0 - 17,0"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "FORMULA LEUCOCITARIA",
+      "sotto_esami": [
+        {
+          "nome": "Neutrofili %",
+          "risultato": 74.5,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "40,0 - 75,0"
+        },
+        {
+          "nome": "Linfociti %",
+          "risultato": 15.8,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "20,0 - 45,0"
+        },
+        {
+          "nome": "Monociti %",
+          "risultato": 9.5,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "3,4 - 12,0"
+        },
+        {
+          "nome": "Eosinofili %",
+          "risultato": 0.1,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "0,0 - 8,0"
+        },
+        {
+          "nome": "Basofili %",
+          "risultato": 0.1,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "0,0 - 2,5"
+        },
+        {
+          "nome": "Neutrofili #",
+          "risultato": 1.60,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "1,60 - 8,10"
+        },
+        {
+          "nome": "Linfociti #",
+          "risultato": 0.34,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "0,80 - 3,80"
+        },
+        {
+          "nome": "Monociti #",
+          "risultato": 0.20,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "0,10 - 1,30"
+        },
+        {
+          "nome": "Eosinofili #",
+          "risultato": 0.00,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "0,00 - 0,80"
+        },
+        {
+          "nome": "Basofili #",
+          "risultato": 0.00,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "0,00 - 0,30"
+        },
+        {
+          "nome": "NRBC %",
+          "risultato": 2.95,
+          "unita_di_misura": "%/WBC",
+          "valori_di_riferimento": "0,00 - 0,00"
+        },
+        {
+          "nome": "NRBC #",
+          "risultato": 0.06,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "0,00 - 0,00"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "Revisione microscopica",
+      "risultato": "Marcata anisocitosi Presenza di eritroblasti ortocromatici"
+    },
+    {
+      "tipo_di_esame": "FOSFATASI ALCALINA"
+    },
+    {
+      "tipo_di_esame": "PSA TOTALE",
+      "metodo": "CHEMILUMINESCENZA",
+      "risultato": 2425.10,
+      "unita_di_misura": "μg/L",
+      "valori_di_riferimento": "0,00 - 4,50 in soggetto di età compresa tra 61 e 70 anni",
+      "esame_ripetuto": true
+    }
+  ]
+  }

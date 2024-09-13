@@ -1,0 +1,280 @@
+{
+  "paziente": "Giuseppe Verdi",
+  "data": "07-03-2024",
+  "esami": [
+    {
+      "tipo_di_esame": "ESAME EMOCROMOCITOMETRICO",
+      "metodo": "CITOMETRIA A FLUSSO",
+      "sotto_esami": [
+        {
+          "nome": "LEUCOCITI",
+          "risultato": 7.89,
+          "unita_di_misura": "k/μl",
+          "valori_di_riferimento": "4,00 - 10,80"
+        },
+        {
+          "nome": "ERITROCITI",
+          "risultato": 5.30,
+          "unita_di_misura": "M/μl",
+          "valori_di_riferimento": "4,10 - 5,80"
+        },
+        {
+          "nome": "EMOGLOBINA",
+          "risultato": 14.0,
+          "unita_di_misura": "gr/dL",
+          "valori_di_riferimento": "13,5 - 18,0"
+        },
+        {
+          "nome": "EMATOCRITO",
+          "risultato": 42.3,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "40,0 - 53,0"
+        },
+        {
+          "nome": "MCV",
+          "risultato": 79.8,
+          "unita_di_misura": "fl",
+          "valori_di_riferimento": "82,0 - 99,0"
+        },
+        {
+          "nome": "MCH",
+          "risultato": 26.4,
+          "unita_di_misura": "pg",
+          "valori_di_riferimento": "27,0 - 36,0"
+        },
+        {
+          "nome": "MCHC",
+          "risultato": 33.1,
+          "unita_di_misura": "gr/dL",
+          "valori_di_riferimento": "30,0 - 36,0"
+        },
+        {
+          "nome": "RDW-CV",
+          "risultato": 14.6,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "11,0 - 16,0"
+        },
+        {
+          "nome": "PIASTRINE",
+          "risultato": 246,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "150 - 400"
+        },
+        {
+          "nome": "MPV",
+          "risultato": 11.2,
+          "unita_di_misura": "fL",
+          "valori_di_riferimento": "6,5 - 12,0"
+        },
+        {
+          "nome": "PWD",
+          "risultato": 16.5,
+          "unita_di_misura": "fL",
+          "valori_di_riferimento": "15,0 - 17,0"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "FORMULA LEUCOCITARIA",
+      "sotto_esami": [
+        {
+          "nome": "Neutrofili %",
+          "risultato": 57.9,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "40,0 - 75,0"
+        },
+        {
+          "nome": "Linfociti %",
+          "risultato": 30.6,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "20,0 - 45,0"
+        },
+        {
+          "nome": "Monociti %",
+          "risultato": 7.1,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "3,4 - 12,0"
+        },
+        {
+          "nome": "Eosinofili %",
+          "risultato": 3.9,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "0,0 - 8,0"
+        },
+        {
+          "nome": "Basofili %",
+          "risultato": 0.5,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "0,0 - 2,5"
+        },
+        {
+          "nome": "Neutrofili #",
+          "risultato": 4.57,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "1,60 - 8,10"
+        },
+        {
+          "nome": "Linfociti #",
+          "risultato": 2.41,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "0,80 - 3,80"
+        },
+        {
+          "nome": "Monociti #",
+          "risultato": 0.56,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "0,10 - 1,30"
+        },
+        {
+          "nome": "Eosinofili #",
+          "risultato": 0.31,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "0,00 - 0,80"
+        },
+        {
+          "nome": "Basofili #",
+          "risultato": 0.04,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "0,00 - 0,30"
+        },
+        {
+          "nome": "NRBC %",
+          "risultato": 0.00,
+          "unita_di_misura": "%/WBC",
+          "valori_di_riferimento": "0,00 - 0,00"
+        },
+        {
+          "nome": "NRBC #",
+          "risultato": 0.00,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "0,00 - 0,00"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "FIBRINOGENO",
+      "metodo": "COAGULATIVO",
+      "risultato": 405,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "200 - 450"
+    },
+    {
+      "tipo_di_esame": "PROTEINA C REATTIVA",
+      "risultato": 2.7,
+      "unita_di_misura": "mg/L",
+      "valori_di_riferimento": "< 5.0 mg/L"
+    },
+    {
+      "tipo_di_esame": "POTASSIO",
+      "metodo": "IMMUNOTURBIDIMETRICO",
+      "risultato": 4.7,
+      "unita_di_misura": "mmol/l",
+      "valori_di_riferimento": "3.5 - 5.3"
+    },
+    {
+      "tipo_di_esame": "EMOGLOBINA GLICATA HbA1c",
+      "metodo": "POTENZIOMETRICO",
+      "sotto_esami": [
+        {
+          "nome": "Sg- Emoglobina glicata",
+          "risultato": 46,
+          "unita_di_misura": "mmol/mol",
+          "valori_di_riferimento": "Valore desiderabile: < 40\nLiv. decisionale per la diagnosi di diabete: 48\nObiettivo terapeutico: < 53"
+        },
+        {
+          "nome": "Sg- Emoglobina glicata %",
+          "risultato": 6.4,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "Valore desiderabile: < 5.8%\nLiv. decisionale per la diagnosi di diabete: 6.5%\nObiettivo terapeutico: < 7.0%"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "CREATININA - eGFR",
+      "metodo": "ENZIMATICO",
+      "sotto_esami": [
+        {
+          "nome": "Creatinina",
+          "risultato": 1.18,
+          "unita_di_misura": "mg/dl",
+          "valori_di_riferimento": "0,65 - 1,30"
+        },
+        {
+          "nome": "Stima GFR (secondo CKD-EPI)",
+          "risultato": 62,
+          "unita_di_misura": "ml/min",
+          "valori_di_riferimento": "> 90 ml/min/1.73 mq\n60 - 89: stima del GFR non significativa\nin assenza di alterazioni correlate\n30 - 59: moderata riduzione\n15 - 29: marcata riduzione\n< 15: insufficienza renale"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "ACIDO URICO",
+      "metodo": "URICASI POD",
+      "risultato": 6.6,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "3,4 - 7,0"
+    },
+    {
+      "tipo_di_esame": "COLESTEROLO TOTALE",
+      "metodo": "CHOD POD",
+      "risultato": 243,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili per soggetti a rischio basso/moderato: < 190 mg/dl"
+    },
+    {
+      "tipo_di_esame": "COLESTEROLO LDL",
+      "metodo": "Dosaggio diretto CE e CHOD POD",
+      "risultato": 149,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili per soggetti a rischio basso/moderato: < 115 mg/dl"
+    },
+    {
+      "tipo_di_esame": "TRANSAMINASI AST/GOT",
+      "metodo": "IFCC",
+      "risultato": 15,
+      "unita_di_misura": "UI/l",
+      "valori_di_riferimento": "0 - 35"
+    },
+    {
+      "tipo_di_esame": "TRANSAMINASI ALT/GPT",
+      "metodo": "IFCC",
+      "risultato": null,
+      "unita_di_misura": "UI/l",
+      "valori_di_riferimento": "0 - 45"
+    },
+        {
+      "tipo_di_esame": "CPK",
+      "metodo": "IFCC",
+      "risultato": 21,
+      "unita_di_misura": "UI/L",
+      "valori_di_riferimento": "0 - 190"
+    },
+    {
+      "tipo_di_esame": "FOSFATASI ALCALINA",
+      "metodo": "IFCC",
+      "risultato": 59,
+      "unita_di_misura": "UI/L",
+      "valori_di_riferimento": "43 - 115"
+    },
+    {
+      "tipo_di_esame": "PSA TEST Reflex",
+      "metodo": "CHEMILUMINESCENZA",
+      "risultato": 23.84,
+      "unita_di_misura": "μg/L",
+      "valori_di_riferimento": "0,00 - 4,50 in soggetto di età compresa tra 61 e 70 anni",
+      "esame_ripetuto": true
+    },
+    {
+      "tipo_di_esame": "PSA LIBERO",
+      "risultato": 2.82,
+      "unita_di_misura": "μg/L",
+      "valori_di_riferimento": null
+    },
+    {
+      "tipo_di_esame": "RAPPORTO PSA LIBERO/ PSA TOTALE",
+      "risultato": 11.83,
+      "unita_di_misura": "%",
+      "valori_di_riferimento": "> 19%"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "paziente": "Mario Rossi",
+  "data": "10-04-2024",
+  "esami": [
+    {
+      "tipo_di_esame": "ESAME EMOCROMOCITOMETRICO",
+      "metodo": "CITOMETRIA A FLUSSO",
+      "sotto_esami": [
+        {
+          "nome": "LEUCOCITI",
+          "risultato": 12.13,
+          "unita_di_misura": "k/µl",
+          "valori_di_riferimento": "4,00 - 10,80"
+        },
+        {
+          "nome": "ERITROCITI",
+          "risultato": 4.00,
+          "unita_di_misura": "M/µl",
+          "valori_di_riferimento": "4,00 - 5,50"
+        },
+        {
+          "nome": "EMOGLOBINA",
+          "risultato": 10.5,
+          "unita_di_misura": "gr/dL",
+          "valori_di_riferimento": "12,0 - 16,0"
+        },
+        {
+          "nome": "EMATOCRITO",
+          "risultato": 33.1,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "37,0 - 47,0"
+        },
+        {
+          "nome": "MCV",
+          "risultato": 82.6,
+          "unita_di_misura": "fl",
+          "valori_di_riferimento": "82,0 - 99,0"
+        },
+        {
+          "nome": "MCH",
+          "risultato": 26.2,
+          "unita_di_misura": "pg",
+          "valori_di_riferimento": "27,0 - 36,0"
+        },
+        {
+          "nome": "MCHC",
+          "risultato": 31.7,
+          "unita_di_misura": "gr/dL",
+          "valori_di_riferimento": "30,0 - 36,0"
+        },
+        {
+          "nome": "RDW-CV",
+          "risultato": 18.9,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "11,0 - 16,0"
+        },
+        {
+          "nome": "PIASTRINE",
+          "risultato": 197,
+          "unita_di_misura": "K/µl",
+          "valori_di_riferimento": "150 - 400"
+        },
+        {
+          "nome": "MPV",
+          "risultato": 12.4,
+          "unita_di_misura": "fL",
+          "valori_di_riferimento": "6,5 - 12,0"
+        },
+        {
+          "nome": "PWD",
+          "risultato": 16.2,
+          "unita_di_misura": "fL",
+          "valori_di_riferimento": "15,0 - 17,0"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "FORMULA LEUCOCITARIA",
+      "sotto_esami": [
+        {
+          "nome": "Neutrofili %",
+          "risultato": 61.7,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "40,0 - 75,0"
+        },
+        {
+          "nome": "Linfociti %",
+          "risultato": 29.7,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "20,0 - 45,0"
+        },
+        {
+          "nome": "Monociti %",
+          "risultato": 7.5,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "3,4 - 12,0"
+        },
+        {
+          "nome": "Eosinofili %",
+          "risultato": 0.8,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "0,0 - 8,0"
+        },
+        {
+          "nome": "Basofili %",
+          "risultato": 0.3,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "0,0 - 2,5"
+        },
+        {
+          "nome": "Neutrofili #",
+          "risultato": 7.47,
+          "unita_di_misura": "K/µl",
+          "valori_di_riferimento": "1,60 - 8,10"
+        },
+        {
+          "nome": "Linfociti #",
+          "risultato": 3.61,
+          "unita_di_misura": "K/µl",
+          "valori_di_riferimento": "0,80 - 3,80"
+        },
+        {
+          "nome": "Monociti #",
+          "risultato": 0.91,
+          "unita_di_misura": "K/µl",
+          "valori_di_riferimento": "0,10 - 1,30"
+        },
+        {
+          "nome": "Eosinofili #",
+          "risultato": 0.10,
+          "unita_di_misura": "K/µl",
+          "valori_di_riferimento": "0,00 - 0,80"
+        },
+        {
+          "nome": "Basofili #",
+          "risultato": 0.04,
+          "unita_di_misura": "K/µl",
+          "valori_di_riferimento": "0,00 - 0,30"
+        },
+        {
+          "nome": "NRBC %",
+          "risultato": 0.00,
+          "unita_di_misura": "%WBC",
+          "valori_di_riferimento": "0,00 - 0,00"
+        },
+        {
+          "nome": "NRBC #",
+          "risultato": 0.00,
+          "unita_di_misura": "K/µl",
+          "valori_di_riferimento": "0,00 - 0,00"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "VES",
+      "metodo": "Fotometria",
+      "risultato": 19,
+      "unita_di_misura": "mm/h",
+      "valori_di_riferimento": "1 - 30"
+    },
+    {
+      "tipo_di_esame": "PROTEINA C REATTIVA",
+      "metodo": "IMMUNOTURBIDIMETRICO",
+      "risultato": 4.4,
+      "unita_di_misura": "mg/L",
+      "valori_di_riferimento": "< 5.0 mg/L"
+    },
+    {
+      "tipo_di_esame": "PROTEINE /s",
+      "metodo": "BIURETO",
+      "risultato": 6.0,
+      "unita_di_misura": "gr/dl",
+      "valori_di_riferimento": "6.0 - 8.0"
+    },
+    {
+      "tipo_di_esame": "FOSFORO /s",
+      "metodo": "FOSFOMOLIBDATO (FORMAZIONE)",
+      "risultato": 3.5,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "2.4 - 4.8"
+    },
+    {
+      "tipo_di_esame": "CALCIO /s",
+      "metodo": "ARSENAZO III",
+      "risultato": 9.8,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "8.5 - 10.5"
+    },
+    {
+      "tipo_di_esame": "GLUCOSIO",
+      "metodo": "ESOCHINASI",
+      "risultato": 72,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "60 - 99 mg/dl (IFG Alterata Glicemia a Diguno) da monitorare; 100 - 125 mg/dl Livello decisionale per diabete; > 125 mg/dl in almeno due diverse occasioni. In gravidanza: < 92 mg/dl * Secondo linee guida Soc. It. di Diabetologia * 0,50 - 1,00"
+    },
+    {
+      "tipo_di_esame": "CREATININA - eGFR",
+      "metodo": "ENZIMATICO",
+      "risultato": 0.92,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "> 90 ml/min/1.73 mq 60 - 89: stima del GFR non significativa in assenza di alterazioni correlate 30 - 59: moderata riduzione 15 - 29: marcata riduzione < 15: insufficienza renale"
+    },
+    {
+      "tipo_di_esame": "Stima GFR (secondo CKD-EPI)",
+      "risultato": 57,
+      "unita_di_misura": "ml/min",
+      "valori_di_riferimento": "> 90 ml/min/1.73 mq 60 - 89: stima del GFR non significativa in assenza di alterazioni correlate 30 - 59: moderata riduzione 15 - 29: marcata riduzione < 15: insufficienza renale"
+    },
+    {
+      "tipo_di_esame": "TRIGLICERIDI",
+      "metodo": "GPO POD-PAP",
+      "risultato": 136,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili per soggetti a rischio basso/moderato: < 150 mg/dl"
+    },
+    {
+      "tipo_di_esame": "COLESTEROLO TOTALE",
+      "metodo": "CHOD POD",
+      "risultato": 221,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili per soggetti a rischio basso/moderato: < 190 mg/dl"
+    },
+        {
+      "nome": "OLESTEROLO HDL",
+      "metodo": "etodo COLORIMETRICO PER BLOCCAGGIO IMMUNOLOGICO",
+      "risultato": 63,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": {
+        "uomo": "> 40 mg/dl",
+        "donna": "> 45 mg/dl"
+      }
+    },
+    {
+      "nome": "OLESTEROLO LDL",
+      "metodo": "etodo Dosaggio diretto CE e CHOD POD",
+      "risultato": 121,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili per soggetti a rischio basso/moderato: < 115 mg/dl."
+    },
+    {
+      "nome": "RANSAMINASI AST/GOT",
+      "metodo": "etodo IFCC",
+      "risultato": 17,
+      "unita_di_misura": "UI/l",
+      "valori_di_riferimento": "0 - 31"
+    },
+    {
+      "nome": "RANSAMINASI ALT/GPT",
+      "metodo": "etodo IFCC",
+      "risultato": 12,
+      "unita_di_misura": "UI/l",
+      "valori_di_riferimento": "0 - 34"
+    },
+    {
+      "nome": "PK",
+      "metodo": "etodo IFCC",
+      "risultato": 26,
+      "unita_di_misura": "UI/L",
+      "valori_di_riferimento": "0 - 165"
+    },
+    {
+      "nome": "OSFATASI ALCALINA",
+      "metodo": "etodo IFCC",
+      "risultato": 57,
+      "unita_di_misura": "U/L",
+      "valori_di_riferimento": "33 - 98"
+    },
+    {
+      "nome": "LDOLASI",
+      "metodo": "etodo Enzimatico-UV",
+      "risultato": 5.4,
+      "unita_di_misura": "U/L",
+      "valori_di_riferimento": "Fino a 7.6"
+    },
+    {
+      "nome": "VITAMINA D (25 OH) TOTALE",
+      "metodo": "etodo CHEMILUMINESCENZA",
+      "risultato": 57.4,
+      "unita_di_misura": "μg/L",
+      "valori_di_riferimento": {
+        "deficienza": "< 20",
+        "insufficienza": "20 - 29",
+        "sufficienza": "30 - 100"
+      }
+    },
+    {
+      "nome": "PARATORMONE (wPTH)",
+      "metodo": "etodo CHEMILUMINESCENZA",
+      "risultato": 20.4,
+      "unita_di_misura": "ng/L",
+      "valori_di_riferimento": "12.0 - 88.0"
+    },
+    {
+      "nome": "ELETTROFORESI PROTEICA",
+      "metodo": "ELETTROFORESI CAPILLARE",
+      "sottoesami": [
+        {
+          "nome": "Proteine totali",
+          "risultato": 6.0,
+          "unita_di_misura": "gr/dl",
+          "valori_di_riferimento": "6.0 - 8.0"
+        },
+        {
+          "nome": "Albumina",
+          "risultato": 56.2,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "52.7 - 67.4"
+        },
+        {
+          "nome": "Alfa 1 Globuline",
+          "risultato": 8.1,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "3.6 - 8.0"
+        },
+        {
+          "nome": "Alfa 2 Globuline",
+          "risultato": 10.3,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "6.4 - 11.5"
+        },
+        {
+          "nome": "Beta 1 Globuline",
+          "risultato": 8.3,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "5.2 - 8.3"
+        },
+        {
+          "nome": "Beta 2 Globuline",
+          "risultato": 5.7,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "2.2 - 8.0"
+        },
+        {
+          "nome": "Gamma Globuline",
+          "risultato": 11.4,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "8.7 - 18.0"
+        },
+        {
+          "nome": "Rapporto Albumina/Globuline",
+          "risultato": 1.28
+        }
+      ],
+      "grafico": "Non si rilevano bande monoclonali."
+    }
+  ]
+}

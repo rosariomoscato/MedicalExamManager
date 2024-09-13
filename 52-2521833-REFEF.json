@@ -1,0 +1,225 @@
+{
+  "paziente": "Giuseppe Verdi",
+  "data": "30-03-2024",
+  "esami": [
+    {
+      "tipo_di_esame": "ESAME EMOCROMOCITOMETRICO",
+      "metodo": "CITOMETRIA A FLUSSO",
+      "sotto_esami": [
+        {
+          "nome": "LEUCOCITI",
+          "risultato": 6.07,
+          "unita_di_misura": "k/μl",
+          "valori_di_riferimento": "4,00 - 10,80"
+        },
+        {
+          "nome": "ERITROCITI",
+          "risultato": 4.79,
+          "unita_di_misura": "M/μl",
+          "valori_di_riferimento": "4,00 - 5,50"
+        },
+        {
+          "nome": "EMOGLOBINA",
+          "risultato": 13.7,
+          "unita_di_misura": "gr/dL",
+          "valori_di_riferimento": "12,0 - 16,0"
+        },
+        {
+          "nome": "EMATOCRITO",
+          "risultato": 41.1,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "37,0 - 47,0"
+        },
+        {
+          "nome": "MCV",
+          "risultato": 85.9,
+          "unita_di_misura": "fl",
+          "valori_di_riferimento": "82,0 - 99,0"
+        },
+        {
+          "nome": "MCH",
+          "risultato": 28.7,
+          "unita_di_misura": "pg",
+          "valori_di_riferimento": "27,0 - 36,0"
+        },
+        {
+          "nome": "MCHC",
+          "risultato": 33.4,
+          "unita_di_misura": "gr/dL",
+          "valori_di_riferimento": "30,0 - 36,0"
+        },
+        {
+          "nome": "RDW-CV",
+          "risultato": 14.1,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "11,0 - 16,0"
+        },
+        {
+          "nome": "PIASTRINE",
+          "risultato": 247,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "150 - 400"
+        },
+        {
+          "nome": "MPV",
+          "risultato": 10.3,
+          "unita_di_misura": "fl",
+          "valori_di_riferimento": "6,5 - 12,0"
+        },
+        {
+          "nome": "PWD",
+          "risultato": 16.2,
+          "unita_di_misura": "fl",
+          "valori_di_riferimento": "15,0 - 17,0"
+        },
+        {
+          "nome": "FORMULA LEUCOCITARIA",
+          "sotto_esami": [
+            {
+              "nome": "Neutrofili %",
+              "risultato": 51.9,
+              "unita_di_misura": "%",
+              "valori_di_riferimento": "40,0 - 75,0"
+            },
+            {
+              "nome": "Linfociti %",
+              "risultato": 38.4,
+              "unita_di_misura": "%",
+              "valori_di_riferimento": "20,0 - 45,0"
+            },
+            {
+              "nome": "Monociti %",
+              "risultato": 5.2,
+              "unita_di_misura": "%",
+              "valori_di_riferimento": "3,4 - 12,0"
+            },
+            {
+              "nome": "Eosinofili %",
+              "risultato": 3.5,
+              "unita_di_misura": "%",
+              "valori_di_riferimento": "0,0 - 8,0"
+            },
+            {
+              "nome": "Basofili %",
+              "risultato": 1.0,
+              "unita_di_misura": "%",
+              "valori_di_riferimento": "0,0 - 2,5"
+            },
+            {
+              "nome": "Neutrofili #",
+              "risultato": 3.15,
+              "unita_di_misura": "K/μl",
+              "valori_di_riferimento": "1,60 - 8,10"
+            },
+            {
+              "nome": "Linfociti #",
+              "risultato": 2.33,
+              "unita_di_misura": "K/μl",
+              "valori_di_riferimento": "0,80 - 3,80"
+            },
+            {
+              "nome": "Monociti #",
+              "risultato": 0.32,
+              "unita_di_misura": "K/μl",
+              "valori_di_riferimento": "0,10 - 1,30"
+            },
+            {
+              "nome": "Eosinofili #",
+              "risultato": 0.21,
+              "unita_di_misura": "K/μl",
+              "valori_di_riferimento": "0,00 - 0,80"
+            },
+            {
+              "nome": "Basofili #",
+              "risultato": 0.06,
+              "unita_di_misura": "K/μl",
+              "valori_di_riferimento": "0,00 - 0,30"
+            },
+            {
+              "nome": "NRBC %",
+              "risultato": 0.00,
+              "unita_di_misura": "%/WBC",
+              "valori_di_riferimento": "0,00 - 0,00"
+            },
+            {
+              "nome": "NRBC #",
+              "risultato": 0.00,
+              "unita_di_misura": "%/WBC",
+              "valori_di_riferimento": "0,00 - 0,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "GLUCOSIO",
+      "metodo": "ESOCHINASI",
+      "risultato": 98,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "60 - 99 mg/dl",
+      "note": "IFG (Alterata Glicemia a Diguno) da monitorare: 100 - 125 mg/dl. Livello decisionale"
+    },
+    {
+      "tipo_di_esame": "CREATININA - eGFR",
+      "metodo": "ENZIMATICO",
+      "risultato": 0.66,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "0,50 - 1,00"
+    },
+    {
+      "nome": "Stima GFR (secondo CKD-EPI)",
+      "risultato": 104,
+      "unita_di_misura": "ml/min",
+      "valori_di_riferimento": "> 90 ml/min/1.73 mq (60 - 89: stima del GFR non significativa, 30 - 59: marcata riduzione, 15 - 29: marcata riduzione, < 15: insufficienza renale)"
+    },
+    {
+      "tipo_di_esame": "TRIGLICERIDI",
+      "metodo": "GPO POD-PAP",
+      "risultato": 57,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili per soggetti a rischio basso/moderato: < 150 mg/dl"
+    },
+    {
+      "tipo_di_esame": "COLESTEROLO TOTALE",
+      "metodo": "CHOD POD",
+      "risultato": 235,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili per soggetti a rischio basso/moderato: < 190 mg/dl"
+    },
+    {
+      "tipo_di_esame": "COLESTEROLO HDL",
+      "metodo": "COLORIMETRICO PER BLOCCAGGIO IMMUNOLOGICO",
+      "risultato": 84,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili: Uomo: > 40 mg/dl, Donna: > 45 mg/dl"
+    },
+    {
+      "tipo_di_esame": "COLESTEROLO LDL",
+      "metodo": "Dosaggio diretto CE e CHOD POD",
+      "risultato": 127,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili per soggetti a rischio basso/moderato: < 115 mg/dl"
+    },
+    {
+      "tipo_di_esame": "TRANSAMINASI AST/GOT",
+      "metodo": "IFCC",
+      "risultato": 21,
+      "unita_di_misura": "UI/l",
+      "valori_di_riferimento": "0 - 31"
+    },
+    {
+      "tipo_di_esame": "TRANSAMINASI ALT/GPT",
+      "metodo": "IFCC",
+      "risultato": 17,
+      "unita_di_misura": "UI/l",
+      "valori_di_riferimento": "0 - 34"
+    },
+    {
+      "tipo_di_esame": "GAMMA GT",
+      "metodo": "IFCC",
+      "risultato": 18,
+      "unita_di_misura": "UI/l",
+      "valori_di_riferimento": "0 - 32"
+    }
+  ]
+}

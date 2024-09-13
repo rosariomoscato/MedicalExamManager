@@ -1,0 +1,400 @@
+{
+  "paziente": "Mario Rossi",
+  "data": "19-03-2024",
+  "esami": [
+    {
+      "tipo_di_esame": "ESAME EMOCROMOCITOMETRICO",
+      "metodo": "CITOMETRIA A FLUSSO",
+      "sotto_esami": [
+        {
+          "nome": "LEUCOCITI",
+          "risultato": 9.53,
+          "unita_di_misura": "k/μl",
+          "valori_di_riferimento": "4,00 - 10,80"
+        },
+        {
+          "nome": "ERITROCITI",
+          "risultato": 5.06,
+          "unita_di_misura": "M/μl",
+          "valori_di_riferimento": "4,10 - 5,80"
+        },
+        {
+          "nome": "EMOGLOBINA",
+          "risultato": 14.7,
+          "unita_di_misura": "gr/dL",
+          "valori_di_riferimento": "13,5 - 18,0"
+        },
+        {
+          "nome": "EMATOCRITO",
+          "risultato": 43.8,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "40,0 - 53,0"
+        },
+        {
+          "nome": "MCV",
+          "risultato": 86.6,
+          "unita_di_misura": "fl",
+          "valori_di_riferimento": "82,0 - 99,0"
+        },
+        {
+          "nome": "MCH",
+          "risultato": 29.0,
+          "unita_di_misura": "pg",
+          "valori_di_riferimento": "27,0 - 36,0"
+        },
+        {
+          "nome": "MCHC",
+          "risultato": 33.5,
+          "unita_di_misura": "gr/dL",
+          "valori_di_riferimento": "30,0 - 36,0"
+        },
+        {
+          "nome": "RDW-CV",
+          "risultato": 13.6,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "11,0 - 16,0"
+        },
+        {
+          "nome": "PIASTRINE",
+          "risultato": 222,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "150 - 400"
+        },
+        {
+          "nome": "MPV",
+          "risultato": 13.2,
+          "unita_di_misura": "fl",
+          "valori_di_riferimento": "6,5 - 12,0"
+        },
+        {
+          "nome": "PWD",
+          "risultato": 16.2,
+          "unita_di_misura": "fl",
+          "valori_di_riferimento": "15,0 - 17,0"
+        },
+        {
+          "nome": "FORMULA LEUCOCITARIA",
+          "sotto_esami": [
+            {
+              "nome": "Neutrofili %",
+              "risultato": 57.5,
+              "unita_di_misura": "%",
+              "valori_di_riferimento": "40,0 - 75,0"
+            },
+            {
+              "nome": "Linfociti %",
+              "risultato": 29.3,
+              "unita_di_misura": "%",
+              "valori_di_riferimento": "20,0 - 45,0"
+            },
+            {
+              "nome": "Monociti %",
+              "risultato": 7.1,
+              "unita_di_misura": "%",
+              "valori_di_riferimento": "3,4 - 12,0"
+            },
+            {
+              "nome": "Eosinofili %",
+              "risultato": 5.7,
+              "unita_di_misura": "%",
+              "valori_di_riferimento": "0,0 - 8,0"
+            },
+            {
+              "nome": "Basofili %",
+              "risultato": 0.4,
+              "unita_di_misura": "%",
+              "valori_di_riferimento": "0,0 - 2,5"
+            },
+            {
+              "nome": "Neutrofili #",
+              "risultato": 5.47,
+              "unita_di_misura": "K/μl",
+              "valori_di_riferimento": "1,60 - 8,10"
+            },
+            {
+              "nome": "Linfociti #",
+              "risultato": 2.79,
+              "unita_di_misura": "K/μl",
+              "valori_di_riferimento": "0,80 - 3,80"
+            },
+            {
+              "nome": "Monociti #",
+              "risultato": 0.68,
+              "unita_di_misura": "K/μl",
+              "valori_di_riferimento": "0,10 - 1,30"
+            },
+            {
+              "nome": "Eosinofili #",
+              "risultato": 0.55,
+              "unita_di_misura": "K/μl",
+              "valori_di_riferimento": "0,00 - 0,80"
+            },
+            {
+              "nome": "Basofili #",
+              "risultato": 0.04,
+              "unita_di_misura": "K/μl",
+              "valori_di_riferimento": "0,00 - 0,30"
+            },
+            {
+              "nome": "NRBC %",
+              "risultato": 0.00,
+              "unita_di_misura": "%/WBC",
+              "valori_di_riferimento": "0,00 - 0,00"
+            },
+            {
+              "nome": "NRBC #",
+              "risultato": 0.00,
+              "unita_di_misura": "K/μl",
+              "valori_di_riferimento": "0,00 - 0,00"
+            }
+          ]
+        },
+        {
+          "nome": "VES",
+          "risultato": 9,
+          "unita_di_misura": "mm/h",
+          "valori_di_riferimento": "1 - 20"
+        },
+        {
+          "nome": "GLUCOSIO",
+          "risultato": 120,
+          "unita_di_misura": "mg/dl",
+          "valori_di_riferimento": "60 - 99 mg/dl"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "EMOGLOBINA GLICATA HbA1c",
+      "metodo": "HPLC",
+      "sotto_esami": [
+        {
+          "nome": "Emoglobina glicata",
+          "risultato": 43,
+          "unita_di_misura": "mmol/mol",
+          "valori_di_riferimento": "Valore desiderabile: < 40, Liv. decisionale per la diagnosi di diabete: 48, Obiettivo terapeutico: < 53"
+        },
+        {
+          "nome": "Emoglobina glicata %",
+          "risultato": 6.1,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "Valore desiderabile: < 5,8%, Liv. decisionale per la diagnosi di diabete: 6,5%, Obiettivo terapeutico: < 7,0%"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "CREATININA - eGFR",
+      "metodo": "ENZIMATICO",
+      "sotto_esami": [
+        {
+          "nome": "Creatinina",
+          "risultato": 0.84,
+          "unita_di_misura": "mg/dl",
+          "valori_di_riferimento": "0,65 - 1,30"
+        },
+        {
+          "nome": "Stima GFR (secondo CKD-EPI)",
+          "risultato": 96,
+          "unita_di_misura": "ml/min",
+          "valori_di_riferimento": "> 90 ml/min/1,73 mq, 60 - 89: stima del GFR non significativa in assenza di alterazioni correlate, 30 - 59: moderata riduzione, 15 - 29: marcata riduzione, < 15: insufficienza renale"
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "TRIGLICERIDI",
+      "metodo": "GPO POD-PAP",
+      "risultato": 161,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili per soggetti a rischio basso/moderato: < 150 mg/dl"
+    },
+    {
+      "tipo_di_esame": "COLESTEROLO TOTALE",
+      "metodo": "CHOD POD",
+      "risultato": 149,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili per soggetti a rischio basso/moderato: < 190 mg/dl"
+    },
+    {
+      "tipo_di_esame": "COLESTEROLO HDL",
+      "metodo": "COLORIMETRICO PER BLOCCAGGIO",
+      "risultato": 41,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili: Uomo: > 40 mg/dl"
+    },
+    {
+      "tipo_esame": "IMMUNOLOGICO",
+      "sotto_esami": [
+        {
+          "nome": "COLESTEROLO LDL",
+          "metodo": "Metodo Dosaggio diretto CE e CHOD POD",
+          "risultato": 83,
+          "unita_di_misura": "mg/dl",
+          "valori_di_riferimento": "Donna: > 45 mg/dl, Valori desiderabili per soggetti a rischio basso/moderato: < 115 mg/dl."
+        },
+        {
+          "nome": "TRANSAMINASI AST/GOT",
+          "metodo": "Metodo IFCC",
+          "risultato": 14,
+          "unita_di_misura": "U/I",
+          "valori_di_riferimento": "0 - 35"
+        },
+        {
+          "nome": "TRANSAMINASI ALT/GPT",
+          "metodo": "Metodo IFCC",
+          "risultato": 17,
+          "unita_di_misura": "U/I",
+          "valori_di_riferimento": "0 - 45"
+        },
+        {
+          "nome": "GAMMA GT",
+          "metodo": "Metodo IFCC",
+          "risultato": 22,
+          "unita_di_misura": "U/I",
+          "valori_di_riferimento": "0 - 49"
+        },
+        {
+          "nome": "MICROALBUMINURIA Campione estemporaneo",
+          "metodo": "Metodo IMMUNOTURBIDIMETRICO",
+          "sotto_esami": [
+            {
+              "nome": "Microalbuminuria",
+              "risultato": 8.7,
+              "unita_di_misura": "mg/gr crea",
+              "valori_di_riferimento": "Normoalbuminuria: < 30, Microalbuminuria: 30 - 300, Macroalbuminuria: > 300"
+            },
+            {
+              "nome": "Creatinuria",
+              "risultato": 218.45,
+              "unita_di_misura": "mg/dl",
+              "valori_di_riferimento": "30.00 - 300.00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo_esame": "ESAME COMPLETO DELLE URINE",
+      "sotto_esami": [
+        {
+          "nome": "ESAME CHIMICO FISICO",
+          "metodo": "METODO RIFLETTOMETRICO AUTOMATICO",
+          "sotto_esami": [
+            {
+              "nome": "Colore",
+              "risultato": "GIALLO PAGLIERINO"
+            },
+            {
+              "nome": "Aspetto",
+              "risultato": "LIMPIDO"
+            },
+            {
+              "nome": "Ph",
+              "risultato": 5.0,
+              "unita_di_misura": "U",
+              "valori_di_riferimento": "5.0 - 7.5"
+            },
+            {
+              "nome": "Densità",
+              "risultato": 1.033,
+              "unita_di_misura": "U",
+              "valori_di_riferimento": "1.005 - 1.030"
+            },
+            {
+              "nome": "Proteine",
+              "risultato": 0,
+              "unita_di_misura": "mg/dl",
+              "valori_di_riferimento": "0 - 15"
+            },
+            {
+              "nome": "Microalbuminuria",
+              "risultato": 1,
+              "unita_di_misura": "mg/dl",
+              "valori_di_riferimento": "0 - 3"
+            },
+            {
+              "nome": "Rapporto Microalbuminuria/Creatinina",
+              "risultato": "< 30",
+              "unita_di_misura": "mg/gr",
+              "valori_di_riferimento": "< 30: rapporto normale, 30 - 300: rapporto anomale, > 300: rapporto gravemente anomale"
+            },
+            {
+              "nome": "Emoglobina",
+              "risultato": 0.03,
+              "unita_di_misura": "mg/dl",
+              "valori_di_riferimento": "0.00 - 0.03"
+            },
+            {
+              "nome": "Chetoni",
+              "risultato": 0.0,
+              "unita_di_misura": "mg/dl",
+              "valori_di_riferimento": "0.0 - 0.0"
+            },
+            {
+              "nome": "Bilirubina",
+              "risultato": 0.0,
+              "unita_di_misura": "mg/dl",
+              "valori_di_riferimento": "0.0 - 0.0"
+            },
+            {
+              "nome": "Urobilinogeno",
+              "risultato": 0.00,
+              "unita_di_misura": "mg/dl",
+              "valori_di_riferimento": "0.00 - 0.30"
+            },
+            {
+              "nome": "Glucosio",
+              "risultato": 0,
+              "unita_di_misura": "mg/dl",
+              "valori_di_riferimento": "0 - 10"
+            },
+            {
+              "nome": "Esterasi leucocitaria",
+              "risultato": 15,
+              "unita_di_misura": "leu/μl",
+              "valori_di_riferimento": "0 - 1"
+            },
+            {
+              "nome": "Calcio",
+              "risultato": 4,
+              "unita_di_misura": "mg/dl",
+              "valori_di_riferimento": "0 - 30"
+            },
+            {
+              "nome": "Nitriti",
+              "risultato": "NEGATIVO"
+            }
+          ]
+        },
+        {
+          "nome": "ESAME MICROSCOPICO DEL SEDIMENTO",
+          "metodo": "METODO MICROSCOPIA AUTOMATIZZATA",
+          "sotto_esami": [
+            {
+              "nome": "Emazie",
+              "risultato": 6,
+              "unita_di_misura": "p/μl",
+              "valori_di_riferimento": "0 - 15"
+            },
+            {
+              "nome": "Leucociti",
+              "risultato": 23,
+              "unita_di_misura": "p/μl",
+              "valori_di_riferimento": "0 - 20"
+            },
+            {
+              "nome": "Filamenti di muco",
+              "risultato": 1143,
+              "unita_di_misura": "p/μl",
+              "valori_di_riferimento": "0 - 1000"
+            },
+            {
+              "nome": "Cristalli di Ossalato di Calcio",
+              "risultato": 28,
+              "unita_di_misura": "p/μl",
+              "valori_di_riferimento": "0 - 30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

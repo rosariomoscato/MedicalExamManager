@@ -1,0 +1,280 @@
+{
+  "paziente": "Mario Rossi",
+  "data": "13-03-2024",
+  "esami": [
+    {
+      "tipo_di_esame": "ESAME EMOCROMOCITOMETRICO",
+      "metodo": "CITOMETRIA A FLUSSO",
+      "sotto_esami": [
+        {
+          "nome": "LEUCOCITI",
+          "risultato": 5.82,
+          "unita_di_misura": "k/μl",
+          "valori_di_riferimento": "4,00 - 10,80"
+        },
+        {
+          "nome": "ERITROCITI",
+          "risultato": 4.91,
+          "unita_di_misura": "M/μl",
+          "valori_di_riferimento": "4,10 - 5,80"
+        },
+        {
+          "nome": "EMOGLOBINA",
+          "risultato": 14.0,
+          "unita_di_misura": "gr/dL",
+          "valori_di_riferimento": "13,5 - 18,0"
+        },
+        {
+          "nome": "EMATOCRITO",
+          "risultato": 42.2,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "40,0 - 53,0"
+        },
+        {
+          "nome": "MCV",
+          "risultato": 86.0,
+          "unita_di_misura": "fl",
+          "valori_di_riferimento": "82,0 - 99,0"
+        },
+        {
+          "nome": "MCH",
+          "risultato": 28.5,
+          "unita_di_misura": "pg",
+          "valori_di_riferimento": "27,0 - 36,0"
+        },
+        {
+          "nome": "MCHC",
+          "risultato": 33.1,
+          "unita_di_misura": "gr/dL",
+          "valori_di_riferimento": "30,0 - 36,0"
+        },
+        {
+          "nome": "RDW-CV",
+          "risultato": 14.2,
+          "unita_di_misura": "%",
+          "valori_di_riferimento": "11,0 - 16,0"
+        },
+        {
+          "nome": "PIASTRINE",
+          "risultato": 227,
+          "unita_di_misura": "K/μl",
+          "valori_di_riferimento": "150 - 400"
+        },
+        {
+          "nome": "MPV",
+          "risultato": 9.7,
+          "unita_di_misura": "fl",
+          "valori_di_riferimento": "6,5 - 12,0"
+        },
+        {
+          "nome": "PWD",
+          "risultato": 16.4,
+          "unita_di_misura": "fl",
+          "valori_di_riferimento": "15,0 - 17,0"
+        },
+        {
+          "nome": "FORMULA LEUCOCITARIA",
+          "sotto_esami": [
+            {
+              "nome": "Neutrofili %",
+              "risultato": 58.1,
+              "unita_di_misura": "%",
+              "valori_di_riferimento": "40,0 - 75,0"
+            },
+            {
+              "nome": "Linfociti %",
+              "risultato": 28.8,
+              "unita_di_misura": "%",
+              "valori_di_riferimento": "20,0 - 45,0"
+            },
+            {
+              "nome": "Monociti %",
+              "risultato": 9.5,
+              "unita_di_misura": "%",
+              "valori_di_riferimento": "3,4 - 12,0"
+            },
+            {
+              "nome": "Eosinofili %",
+              "risultato": 3.2,
+              "unita_di_misura": "%",
+              "valori_di_riferimento": "0,0 - 8,0"
+            },
+            {
+              "nome": "Basofili %",
+              "risultato": 0.4,
+              "unita_di_misura": "%",
+              "valori_di_riferimento": "0,0 - 2,5"
+            },
+            {
+              "nome": "Neutrofili #",
+              "risultato": 3.39,
+              "unita_di_misura": "K/μl",
+              "valori_di_riferimento": "1,60 - 8,10"
+            },
+            {
+              "nome": "Linfociti #",
+              "risultato": 1.68,
+              "unita_di_misura": "K/μl",
+              "valori_di_riferimento": "0,80 - 3,80"
+            },
+            {
+              "nome": "Monociti #",
+              "risultato": 0.55,
+              "unita_di_misura": "K/μl",
+              "valori_di_riferimento": "0,10 - 1,30"
+            },
+            {
+              "nome": "Eosinofili #",
+              "risultato": 0.18,
+              "unita_di_misura": "K/μl",
+              "valori_di_riferimento": "0,00 - 0,80"
+            },
+            {
+              "nome": "Basofili #",
+              "risultato": 0.02,
+              "unita_di_misura": "K/μl",
+              "valori_di_riferimento": "0,00 - 0,30"
+            },
+            {
+              "nome": "NRBC %",
+              "risultato": 0.00,
+              "unita_di_misura": "%/WBC",
+              "valori_di_riferimento": "0,00 - 0,00"
+            },
+            {
+              "nome": "NRBC #",
+              "risultato": 0.00,
+              "unita_di_misura": "",
+              "valori_di_riferimento": "0,00 - 0,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo_di_esame": "GLUCOSIO",
+      "metodo": "ESOCHINASI",
+      "risultato": 97,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "60 - 99 mg/dl",
+      "note": "IFG (Alterata Glicemia a Diguno) da monitorare: 100 - 125 mg/dl. Livello decisionale"
+    },
+    {
+      "tipo_di_esame": "CREATININA - eGFR",
+      "metodo": "ENZIMATICO",
+      "risultato": 1.14,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "0,65 - 1,30"
+    },
+    {
+      "nome": "Stima GFR (secondo CKD-EPI)",
+      "risultato": 72,
+      "unita_di_misura": "ml/min",
+      "valori_di_riferimento": "60 - 89: stima del GFR non significativa; 30 - 59: lieve riduzione; 15 - 29: marcata riduzione; < 15: insufficienza renale"
+    },
+    {
+      "tipo_di_esame": "TRIGLICERIDI",
+      "metodo": "GPO POD-PAP",
+      "risultato": 95,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili per soggetti a rischio basso/moderato: < 150 mg/dl"
+    },
+    {
+      "tipo_di_esame": "COLESTEROLO TOTALE",
+      "metodo": "CHOD POD",
+      "risultato": 211,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili per soggetti a rischio basso/moderato: < 190 mg/dl"
+    },
+    {
+      "tipo_di_esame": "COLESTEROLO HDL",
+      "metodo": "COLORIMETRICO PER BLOCCAGGIO IMMUNOLOGICO",
+      "risultato": 68,
+      "unita_di_misura": "mg/dl",
+      "valori_di_riferimento": "Valori desiderabili: Uomo: > 40 mg/dl; Donna: > 45 mg/dl"
+    },
+    {
+      "tipo_di_esame": "TRANSAMINASI AST/GOT",
+      "metodo": "IFCC",
+      "risultato": 16,
+      "unita_di_misura": "U/I",
+      "valori_di_riferimento": "0 - 35"
+    },
+    {
+      "tipo_di_esame": "TRANSAMINASI ALT/GPT",
+      "metodo": "IFCC",
+      "risultato": 9,
+      "unita_di_misura": "U/I",
+      "valori_di_riferimento": "0 - 45"
+    },
+    {
+      "tipo_di_esame": "GAMMA GT",
+      "metodo": "IFCC",
+      "risultato": 10,
+      "unita_di_misura": "U/I",
+      "valori_di_riferimento": "0 - 49"
+    },
+    {
+      "tipo_di_esame": "DROGHE SU URINA - SCREENING",
+      "metodo": "EMIT",
+      "risultato": "NEGATIVO",
+      "unita_di_misura": "",
+      "valori_di_riferimento": "Cut-off: 500 ng/ml"
+    },
+    {
+      "tipo_di_esame": "MDMA (EXCSTASY ANALOGHI E OMOLOGHI)",
+      "risultato": "NEGATIVO",
+      "u_m": "Cut-off: 500 ng/ml"
+    },
+    {
+      "tipo_di_esame": "COCAINA E METABOLITI",
+      "risultato": "NEGATIVO",
+      "u_m": "Cut-off: 300 ng/ml"
+    },
+    {
+      "tipo_di_esame": "METADONE",
+      "risultato": "NEGATIVO",
+      "u_m": "Cut-off: 300 ng/ml"
+    },
+    {
+      "tipo_di_esame": "OPIACEI",
+      "risultato": "NEGATIVO",
+      "u_m": "Cut-off: 50 ng/ml"
+    },
+    {
+      "tipo_di_esame": "CANNABINOIDI (THC)",
+      "risultato": "NEGATIVO",
+      "u_m": "Cut-off: 50 ng/ml"
+    },
+    {
+      "tipo_di_esame": "CREATININA /U",
+      "risultato": "184",
+      "u_m": "mg/dl",
+      "valori_di_riferimento": "Superiore a 20 mg/dl"
+    },
+    {
+      "tipo_di_esame": "Leucociti",
+      "risultato": "1",
+      "u_m": "p/μl",
+      "valori_di_riferimento": "0 - 20"
+    },
+    {
+      "tipo_di_esame": "Cellule epiteliali",
+      "risultato": "1",
+      "u_m": "p/μl",
+      "valori_di_riferimento": "0 - 12"
+    },
+    {
+      "tipo_di_esame": "Cellule non epiteliali",
+      "risultato": "1",
+      "u_m": "p/μl",
+      "valori_di_riferimento": "0 - 5"
+    },
+    {
+      "tipo_di_esame": "Filamenti di muco",
+      "risultato": "129",
+      "u_m": "p/μl",
+      "valori_di_riferimento": "0 - 1000"
+    }
+  ]
+}
